@@ -686,6 +686,7 @@ When possible, always turn on "Treat Warnings as Errors" in the target's Build S
 
 ## References
 
+* [Ray Wenderlich's Objective-C Style Guide](https://github.com/raywenderlich/objective-c-style-guide)
 * [The Objective-C Programming Language](http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html)
 * [Cocoa Fundamentals Guide](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CocoaFundamentals/Introduction/Introduction.html)
 * [Coding Guidelines for Cocoa](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
